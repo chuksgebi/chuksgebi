@@ -29,7 +29,10 @@ Here’s what I bring to the table:
 
 ### 1. suricata python based GUI
 *Description*: A Python-based graphical user interface (GUI) designed for a Suricata lab environment to monitor and analyze network security events from Suricata’s fast.log and eve.json. This tool provides real-time visibility into alerts, anomalies, and traffic patterns, making it ideal for educational labs or small-scale network security experiments.
-- **Tech Stack**: Python, Nmap, SQLite  
+- **Tech Stack**:
+- Python: Core language.
+- Tkinter: GUI framework (standard library).
+- Pillow: For screenshot capability.
 - **Features**:  
   - Real-time monitoring of fast.log alerts with automatic updates
   - Filtering by date, signature, and priority for lab-specific analysis
