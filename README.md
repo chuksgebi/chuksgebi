@@ -27,13 +27,16 @@ Here’s what I bring to the table:
 
 ## 🚀 Featured Projects  
 
-### 1. [Project Name 1]  
-*Description*: A custom tool/script for [e.g., automating vulnerability scans].  
+### 1. suricata python based GUI
+*Description*: A Python-based graphical user interface (GUI) designed for a Suricata lab environment to monitor and analyze network security events from Suricata’s fast.log and eve.json. This tool provides real-time visibility into alerts, anomalies, and traffic patterns, making it ideal for educational labs or small-scale network security experiments.
 - **Tech Stack**: Python, Nmap, SQLite  
 - **Features**:  
-  - Scans for open ports and vulnerabilities  
-  - Generates detailed reports in CSV  
-- **Repo**: [Link to repo](#)  
+  - Real-time monitoring of fast.log alerts with automatic updates
+  - Filtering by date, signature, and priority for lab-specific analysis
+  - Anomaly detection for rare signatures and high-priority alerts
+  - Clickable events to display detailed alert information
+  - Screenshot functionality to capture lab observations 
+- **Repo**: git@github.com:chuksgebi/suricata-Gui.git
 - **Demo**: [Link to video/write-up](#)  
 
 ### 2. [Project Name 2]  
