@@ -36,7 +36,7 @@ Here’s what I bring to the table:
   - Anomaly detection for rare signatures and high-priority alerts
   - Clickable events to display detailed alert information
   - Screenshot functionality to capture lab observations 
-- **Repo**: git@github.com:chuksgebi/suricata-Gui.git
+- **Repo**: https://www.github.com/chuksgebi/suricata-Gui.git
 - **Demo**: [Link to video/write-up](#)  
 
 ### 2. [Project Name 2]  
