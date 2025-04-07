@@ -40,31 +40,7 @@ Here’s what I bring to the table:
   - Clickable events to display detailed alert information
   - Screenshot functionality to capture lab observations 
 - **Repo**: https://www.github.com/chuksgebi/suricata-Gui.git
-- **Demo**: [Link to video/write-up](#)  
 
-### 2. [Project Name 2]  
-*Description*: A secure file encryption utility with a focus on usability.  
-- **Tech Stack**: Python, Cryptography library  
-- **Features**:  
-  - AES-256 encryption  
-  - Cross-platform support  
-- **Repo**: [Link to repo](#)  
-
-### 3. [Project Name 3]  
-*Description*: Analysis of [e.g., a real-world malware sample] with detailed write-up.  
-- **Tools Used**: Ghidra, VirtualBox, Wireshark  
-- **Repo**: [Link to repo](#)  
-- **Write-up**: [Link to blog post](#)  
-
----
-
-## 📜 Certifications  
-- **[Cert Name]** - [Issuing Organization] *(Year)*  
-  - e.g., Certified Ethical Hacker (CEH) - EC-Council (2023)  
-- **[Cert Name]** - [Issuing Organization] *(Year)*  
-  - e.g., OSCP - Offensive Security (2024)  
-
----
 
 ## 📈 Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
@@ -72,14 +48,8 @@ Here’s what I bring to the table:
 
 ---
 
-## 📝 Blog Posts & Write-ups  
-- [How I Exploited XYZ Vulnerability](#) - *MM/DD/YYYY*  
-- [Building a Custom Phishing Detection Tool](#) - *MM/DD/YYYY*  
-
----
-
 ## 🤝 Let’s Connect!  
-Feel free to reach out for collaboration, questions, or just to geek out about cybersecurity!  
+
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
@@ -88,4 +58,4 @@ Feel free to reach out for collaboration, questions, or just to geek out about c
 ---
 
 *“The only way to stay ahead of cybercriminals is to think like one.”*  
-Built with ❤️ by [Your Name] | Last Updated: March 25, 2025
+Built with ❤️ by Elele Chukwuemeka | Last Updated: March 25, 2025
