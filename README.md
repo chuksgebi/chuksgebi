@@ -20,7 +20,7 @@ Here’s what I bring to the table:
 |-----------------------|--------------------------------------------|
 | **Penetration Testing** | Kali Linux, Metasploit, Burp Suite, Nmap, Zapproxy |
 | **Network Security**  | Wireshark, TCPdump, Firewall Config, Suricata, Snort |
-| **Programming**       | Python, Bash, C, JavaScript               |
+| **Programming**       | Bash, C,               |
 | **Malware Analysis**  | IDA Pro, Ghidra, OllyDbg                  |
 | **Cloud Security**    | AWS, Azure, Docker, Splunk, Elastic Stack |
 ---
