@@ -22,7 +22,6 @@ Here’s what I bring to the table:
 | **Network Security**  | Wireshark, TCPdump, Firewall Config, Suricata, Snort, Network Monitoring |
 | **Networking**        | Cisco CCNA (In Progress), Routing & Switching (OSPF, EIGRP, VLANs), Cisco IOS, IP Addressing, Subnetting, Network Troubleshooting |
 | **Programming**       | Bash, C, HTML, CSS, SQL, GIT |
-| **Malware Analysis**  | IDA Pro, Ghidra, OllyDbg                  |
 | **Cloud Security**    | AWS, Azure, Docker, Splunk, Elastic Stack, Google Cloud Platform |
 
 ---
@@ -43,6 +42,27 @@ Here’s what I bring to the table:
   - Screenshot functionality to capture lab observations 
 - **Repo**: https://www.github.com/chuksgebi/suricata-Gui.git
 
+2. AB-NEXUS Enterprise Network Topology
+Description: A comprehensive hierarchical three-layer (Core, Distribution, Access) enterprise network design for Access Bank's Headquarters and regional branches (Ikeja and Lekki). This project incorporates Cisco Multilayer Switches, OSPF multi-area routing with ECMP load balancing, BGP for secure branch connectivity, EtherChannel for link aggregation, VLAN segmentation, security features like ACLs, and monitoring tools. It also includes a web server hosting the bank website, a central DHCP server for IP assignment and syslog logging, Cyber Observer for threat monitoring (real-time anomaly detection, compliance auditing, vulnerability scanning), and Network Controller for link monitoring (dynamic traffic steering, bandwidth allocation, fault detection).
+
+Tech Stack:
+
+Cisco IOS and Multilayer Switches
+OSPF, BGP, EtherChannel (LACP)
+VLANs, SVIs, ACLs, SPAN, NetFlow, SNMP
+Cyber Observer, Network Controller
+DHCP Server, Syslog, Web Server
+
+
+Features:
+
+Multi-area OSPF for internal scalability and redundancy
+BGP peering for external branch connectivity with route policy control
+High availability with dual core switches and ECMP
+Security enhancements including ICMP control and centralized logging
+Advanced monitoring with threat detection and link orchestration
+Scalable design supporting cloud integration and SD-WAN
+Repo: https://github.com/chuksgebi/AB-NEXUS-Design
 
 ## 📈 Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chuksgebi&show_icons=true&theme=radical)  
