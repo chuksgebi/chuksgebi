@@ -21,8 +21,8 @@ Here’s what I bring to the table:
 | **Penetration Testing** | Kali Linux, Metasploit, Burp Suite, Nmap, Zapproxy |
 | **Network Security**  | Wireshark, TCPdump, Firewall Config, Suricata, Snort, Network Monitoring |
 | **Networking**        | Cisco CCNA (In Progress), Routing & Switching (OSPF, EIGRP, VLANs), Cisco IOS, IP Addressing, Subnetting, Network Troubleshooting |
-| **Programming**       | Bash, C, HTML, CSS, SQL, GIT |
-| **Cloud Security**    | AWS, Azure, Docker, Splunk, Elastic Stack, Google Cloud Platform |
+| **Programming**       | Bash, C, HTML, CSS |
+| **Cloud Security**    | Splunk, Elastic Stack, Google Cloud Platform |
 
 ---
 
